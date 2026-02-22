@@ -1,0 +1,26 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LoadRunner / VuGen generated artifacts (varies by version)
+*.idx
+*.lrr
+*.rrd
+*.prm
+*.usr
+*.log
+*.bak
+*.tmp
+
+# Results folders (keep placeholders only)
+**/results/*
+!**/results/.gitkeep
+
+# Controller/Analysis artifacts (often huge)
+*.lra
+*.lrb
+*.lrs
+*.lrw
+*.out
