@@ -1,0 +1,3 @@
+Example runtime notes:
+- This script uses internal arrays for users by default.
+- Exercise 03 replaces that with CSV parameterization.
